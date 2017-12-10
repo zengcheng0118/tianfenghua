@@ -1,0 +1,27 @@
+*** References ***
+
+The flags dataset was scanned in from page 86 (figure P5) in:
+
+   Schalkoff, R., "Pattern Recognition:  Statistical, Structural and 
+   Neural Approaches", Wiley, 1992.
+
+The dataset was given as an exercise in statistical pattern recognition,
+with the following problem formulation:
+
+   a) Formulate a discriminant function that, using any combination of the
+      9 features, allows discrimination between class U and class C.
+
+   b) If only one feature were allowed, which would you use?  Assume the
+      criterion is to maximize classification accuracy.  What if only two
+      were allowed?
+
+   c) Assume the last ("Type") column in figure P5 is not given.  Using the
+      features given, are there any natural clusters of U or C type flags?
+
+*** General information ***
+
+The dataset is a table listing various features of the flags of different
+states of the USA, along with the information whether or not the state was
+a union (U) or confederate (C) state during the civil war.  The goal of the
+exercise is to see if it is possible to classify the states as being U or C,
+given information about their flags.

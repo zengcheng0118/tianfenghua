@@ -1,0 +1,74 @@
+"Rosetta" 
+"Decision table (RSES)" 
+8 5 
+0 0 0 0 0 
+0 1 0 1 1 
+1 1 0 2 1 
+2 2 0 1 0 
+2 0 0 1 1 
+2 2 0 0 0 
+0 2 1 2 0 
+1 1 1 0 1 
+0 
+0 
+0 
+0 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+5 
+"String attribute" 
+"Diploma" 
+"Undefined" 
+3 
+"MBA" 0 
+"MCE" 1 
+"MSc" 2 
+"String attribute" 
+"Experience" 
+"Undefined" 
+3 
+"High" 2 
+"Low" 1 
+"Medium" 0 
+"String attribute" 
+"French" 
+"Undefined" 
+2 
+"No" 1 
+"Yes" 0 
+"String attribute" 
+"Reference" 
+"Undefined" 
+3 
+"Excellent" 0 
+"Good" 2 
+"Neutral" 1 
+"String attribute" 
+"Decision" 
+"Undefined" 
+2 
+"Accept" 0 
+"Reject" 1 
+"Rosetta" 
+"Decision table (RSES)" 
+1 
+"hiring" 
+"" 
+1 
+"1996.11.22 14:30:16" 
+"aleks" 
+"Imported from S:\datasets\rosetta\hiring.import." 
+0 

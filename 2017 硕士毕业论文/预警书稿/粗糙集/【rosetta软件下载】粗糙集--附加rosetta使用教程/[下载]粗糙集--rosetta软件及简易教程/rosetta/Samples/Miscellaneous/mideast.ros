@@ -1,0 +1,266 @@
+"Rosetta" 
+"Project" 
+1 
+"Structures" 
+"" 
+0 
+2 
+"RSESDecisionTable" 
+"Rosetta" 
+"RSESDecisionTable" 
+6 11 
+0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 1 0 0 1 1 0 1 
+2 1 0 1 1 0 0 1 1 0 0 
+3 1 0 1 1 0 0 1 1 0 1 
+4 1 0 1 1 0 0 1 1 1 1 
+5 1 0 0 1 0 0 1 1 0 0 
+0 0 0 0 0 0 0 0 0 0 1 
+0 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 
+1 
+11 
+"StringAttribute" 
+"country" 
+"Undefined" 
+6 
+"Egypt" 1 
+"Israel" 0 
+"Jordan" 3 
+"Palestine" 2 
+"SaudiArabia" 5 
+"Syria" 4 
+"StringAttribute" 
+"palstate" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"gaza" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"outpostj" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"jerusalem" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"access" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"sinai" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"settlements" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"golan" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"outpostg" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"citizenship" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"Rosetta" 
+"RSESDecisionTable" 
+1 
+"mideast" 
+"'-' = The participant is against the issue
+'0+' = The participant is neutral or favourable to the issue
+
+'palstate' = Autonomous Palestinian state on the West Bank and Gaza
+'gaza' = Return of the West Bank and Gaza to Arab rule
+'outpostj' = Israeli military outpost along the Jordan River
+'jerusalem' = Israel retains East Jerusalem
+'access' = Free access to all religious centers
+'sinai' = Return of Sinai to Egypt
+'settlements' = Dismantling Isreali Sinai settlements
+'golan' = Return of Golan Heights to Syria
+'outpostg' = Isreali military outposts on the Golan Heights
+'citizenship' = Arab countries grant citizenship to Palestinians who choose to remain within their borders" 
+1 
+"1997.05.07 14:37:07" 
+"aleks" 
+"Imported from S:\datasets\rosetta\mideast.import." 
+1 
+"RSESReducts" 
+"Rosetta" 
+"RSESReducts" 
+1 
+"Normal, ignore dec. status" 
+"" 
+1 
+"1997.05.07 15:13:34" 
+"aleks" 
+"Result of applying RSESExhaustiveReducer to mideast with parameters {DISCERNIBILITY=Normal; USEDECISION=0; TYPE=Normal}." 
+Memory of reducts and rules:
+4
+4  0 2 8 9  0 1 1  0
+4  2 3 8 9  0 1 1  0
+4  2 6 8 9  0 1 1  0
+4  2 7 8 9  0 1 1  0
+0 
+"RSESDecisionTable" 
+"Rosetta" 
+"RSESDecisionTable" 
+6 11 
+0 0 0 0 0 0 0 0 0 0 0 
+1 1 0 0 1 0 0 1 1 0 1 
+0 1 0 1 1 0 0 1 1 0 2 
+1 1 0 1 1 0 0 1 1 0 3 
+1 1 0 1 1 0 0 1 1 1 4 
+0 1 0 0 1 0 0 1 1 0 5 
+0 0 0 0 0 0 0 0 0 0 1 
+1 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 
+1 
+11 
+"StringAttribute" 
+"citizenship" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"palstate" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"gaza" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"outpostj" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"jerusalem" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"access" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"sinai" 
+"Undefined" 
+1 
+"0+" 0 
+"StringAttribute" 
+"settlements" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"golan" 
+"Undefined" 
+2 
+"-" 0 
+"0+" 1 
+"StringAttribute" 
+"outpostg" 
+"Undefined" 
+2 
+"-" 1 
+"0+" 0 
+"StringAttribute" 
+"country" 
+"Undefined" 
+6 
+"Egypt" 1 
+"Israel" 0 
+"Jordan" 3 
+"Palestine" 2 
+"SaudiArabia" 5 
+"Syria" 4 
+"Rosetta" 
+"RSESDecisionTable" 
+1 
+"mideast countries" 
+"" 
+2 
+"1997.05.07 14:37:07" 
+"aleks" 
+"Imported from S:\datasets\rosetta\mideast.import." 
+"1997.05.07 14:39:03" 
+"aleks" 
+"Swapped attributes country and citizenship." 
+1 
+"RSESReducts" 
+"Rosetta" 
+"RSESReducts" 
+1 
+"Object-related" 
+"" 
+1 
+"1997.05.07 15:14:00" 
+"aleks" 
+"Result of applying RSESExhaustiveReducer to mideast countries with parameters {DISCERNIBILITY=Object related; USEDECISION=1; TYPE=Normal}." 
+Memory of reducts and rules:
+11
+1  1  1 1 1  1
+0  10  1  0 1 6 1 1 
+1  4  1 1 1  1
+0  10  1  0 1 6 1 1 
+1  7  1 1 1  1
+0  10  1  0 1 6 1 1 
+1  8  1 1 1  1
+0  10  1  0 1 6 1 1 
+2  0 3  1 1 1  2
+1 0  10  1  1 1 6 1 1 
+0 1  10  1  2 1 6 1 1 
+3  0 3 9  1 1 1  1
+1 1 0  10  1  3 1 6 1 1 
+1  9  1 1 1  1
+1  10  1  4 1 6 1 1 
+3  0 1 3  1 1 1  1
+0 1 0  10  1  5 1 6 1 1 
+3  0 3 4  1 1 1  1
+0 0 1  10  1  5 1 6 1 1 
+3  0 3 7  1 1 1  1
+0 0 1  10  1  5 1 6 1 1 
+3  0 3 8  1 1 1  1
+0 0 1  10  1  5 1 6 1 1 
+1 
+"RSESRules" 
+"Rosetta" 
+"RSESRules" 
+1 
+"Identifying rules" 
+"" 
+0 

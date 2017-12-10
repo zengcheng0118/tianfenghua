@@ -1,0 +1,8 @@
+country     palstate gaza    outpostj jerusalem access  sinai   settlements golan  outpostg citizenship
+string      string   string  string   string    string  string  string      string string   string
+Israel      -        0+      0+       0+        0+      0+      -           -      0+       0+
+Egypt       0+       0+      0+       -         0+      0+      0+          0+     0+       -
+Palestine   0+       0+      -        -         0+      0+      0+          0+     0+       0+
+Jordan      0+       0+      -        -         0+      0+      0+          0+     0+       -
+Syria       0+       0+      -        -         0+      0+      0+          0+     -        -
+SaudiArabia 0+       0+      0+       -         0+      0+      0+          0+     0+       0+

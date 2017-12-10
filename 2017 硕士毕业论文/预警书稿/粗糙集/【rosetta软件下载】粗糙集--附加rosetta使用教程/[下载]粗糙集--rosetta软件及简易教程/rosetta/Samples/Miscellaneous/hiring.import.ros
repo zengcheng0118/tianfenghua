@@ -1,0 +1,10 @@
+Diploma	Experience	French	Reference	Decision
+String	String	String	String	String
+MBA	Medium	Yes	Excellent	Accept
+MBA	Low	Yes	Neutral	Reject
+MCE	Low	Yes	Good	Reject
+MSc	High	Yes	Neutral	Accept
+MSc	Medium	Yes	Neutral	Reject
+MSc	High	Yes	Excellent	Accept
+MBA	High	No	Good	Accept
+MCE	Low	No	Excellent	Reject

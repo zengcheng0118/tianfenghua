@@ -1,0 +1,106 @@
+"Rosetta" 
+"Decision table (RSES)" 
+24 11 
+0 0 0 0 2 1 0 0 0 0 0 
+1 29 0 0 3 0 0 0 1 0 0 
+2 0 0 0 5 0 1 0 4 0 1 
+3 0 0 0 6 0 1 2 4 2 1 
+4 0 0 0 6 1 1 1 15 0 0 
+5 13 1 0 3 1 1 0 3 1 0 
+6 0 0 0 6 0 1 0 6 2 1 
+7 0 2 0 5 0 1 0 10 0 1 
+8 0 0 0 4 0 1 0 4 0 0 
+9 0 12 0 4 0 0 0 0 0 1 
+10 1 0 0 4 0 1 1 6 0 1 
+11 13 0 3 3 1 0 0 0 0 0 
+12 9 0 0 5 0 1 0 7 1 1 
+13 0 0 0 5 0 1 2 3 1 1 
+14 0 0 0 6 0 1 2 1 0 1 
+15 1 1 2 4 0 0 0 3 4 0 
+16 17 0 5 3 0 0 0 0 0 1 
+17 13 0 0 3 0 1 0 1 0 1 
+18 0 0 0 2 0 1 0 0 0 0 
+19 3 2 0 3 0 0 0 0 0 0 
+20 1 1 2 3 0 0 0 0 0 0 
+21 0 0 0 5 0 1 2 4 0 0 
+22 0 0 0 5 0 1 2 2 1 1 
+23 3 0 5 2 0 0 0 0 0 1 
+0 0 0 0 0 0 0 0 0 0 1 
+0 1 1 1 1 1 1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+1 
+11 
+"String attribute" 
+"Flag" 
+"Undefined" 
+24 
+"Alabama" 0 
+"Arkansas" 1 
+"Connecticut" 2 
+"Delaware" 3 
+"Florida" 4 
+"Georgia" 5 
+"Illinois" 6 
+"Louisiana" 8 
+"Maryland" 9 
+"Massachusetts" 10 
+"Mississippi" 11 
+"N.Carolina" 15 
+"NewHampshire" 12 
+"NewJersey" 13 
+"NewYork" 14 
+"Ohio" 16 
+"Rhodelsland" 17 
+"S.Carolina" 18 
+"Tennesee" 19 
+"Texas" 20 
+"Virginia" 21 
+"WashingtonDC" 23 
+"Wisconsin" 22 
+"lowa" 7 
+"Integer attribute" 
+"Stars" 
+"Undefined" 
+"Integer attribute" 
+"Bars" 
+"Undefined" 
+"Integer attribute" 
+"Stripes" 
+"Undefined" 
+"Integer attribute" 
+"Hues" 
+"Undefined" 
+"Integer attribute" 
+"Xcross" 
+"Undefined" 
+"String attribute" 
+"Icon" 
+"Undefined" 
+2 
+"N" 0 
+"Y" 1 
+"Integer attribute" 
+"Humans" 
+"Undefined" 
+"Integer attribute" 
+"Word" 
+"Undefined" 
+"Integer attribute" 
+"Number" 
+"Undefined" 
+"String attribute" 
+"Type" 
+"Undefined" 
+2 
+"C" 0 
+"U" 1 
+"Rosetta" 
+"Decision table (RSES)" 
+1 
+"flags" 
+"" 
+1 
+"1996.11.22 14:28:54" 
+"aleks" 
+"Imported from S:\datasets\rosetta\flags.import." 
+0 

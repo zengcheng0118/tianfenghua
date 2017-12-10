@@ -1,0 +1,25 @@
+% Rosetta format, "heart-disease.cost"
+%
+% The cost is in Canadian dollars. The cost information is from the Ontario
+% Health Insurance Program's fee schedule. The costs in this file are for individual
+% tests, considered in isolation.  When tests are performed in groups,
+% there may be discounts, due to shared common costs. Groups of tests
+% with common costs are identified in the file "heart-disease.group". Costs
+% with discounts are in the file "heart-disease.expense".
+
+age = 1.00
+sex = 1.00
+cp = 1.00
+trestbps = 1.00
+chol = 7.27
+fbs = 5.20
+restecg = 15.50
+thalach = 102.90
+exang = 87.30
+oldpeak = 87.30
+slope = 87.30
+ca = 100.90
+thal = 102.90
+
+
+

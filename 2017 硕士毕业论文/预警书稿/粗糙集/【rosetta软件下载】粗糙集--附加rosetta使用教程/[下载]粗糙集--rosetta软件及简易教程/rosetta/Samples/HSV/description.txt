@@ -1,0 +1,49 @@
+*** References ***
+
+The HSV dataset was scanned in from:
+
+   Slowinski, K., "Rough Classification of HSV patients", in
+   Slowinski, R. (ed.), "Intelligent Decision Support:  Handbook of
+   Applications and Advances of the Rough Sets Theory", pages 77-94,
+   Dordrecht, The Netherlands, Kluwer Academic Publishers, 1992.
+
+Other papers pertaining to the HSV dataset are:
+
+   Fibak, F., Pawlak, Z., Slowinski, K., Slowinski, R., "Rough Sets Based
+   Decision Algorithm for Treatment of Duodenal Ulcer by HSV",
+   Bulletin of the Polish Academy of Sciences, Biological Sciences,
+   Vol. 34, No. 10-12, 1986.
+
+   Slowinski, K., Fibak, J., Jankowiak, W., "Verification of Conclusions
+   from Rough Set Analysis of Highly Selective Vagatomy (HSV) During a
+   Follow-up Program", ICS Research Report 2/95, Warsaw University of
+   Technology, Warsaw, Poland.
+
+   Krusinska, E., Slowinski, R., Stefanowski, J., "Discriminant versus
+   Rough Sets Approach to Vague Data Analysis", Applied Stochastic Models
+   and Data Analysis, Vol. 8, pages 43-56, 1992.
+
+   Slowinski, K., Slowinski, R., "Sensitivity Analysis of Rough
+   Classification", Int. J. Man-Machine Studies, 32, pages 693-705, 1990.
+
+*** General information ***
+
+The present 122-patient dataset is only the training set used in the
+above references.  Results as compared on a separate validation set
+are therefore not directly comparable.
+
+*** Files and formats ***
+
+The files present in this directory are:
+
+   description.txt        This file.
+   hsv.txt                The raw ASCII file as scanned from the book.  Each row
+                          contains 11 condition attributes and 1 decision
+                          attribute (the last one).  There are 122 rows.
+   hsvscale.pl            A Perl script manually scaling the attributes as
+                          suggested in the book.  Generates a file directly
+                          readable by the RSES system.
+   hsv.scaled.rses        The result of running the file "hsv.txt" through the
+                          "hsvscale.pl" script.
+   hsv.import.ros         Rosetta import format of the file "hsv.txt".
+   hsv.scaled.import.ros  Rosetta import format of the file "hsv.scaled.rses".

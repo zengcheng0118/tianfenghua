@@ -1,0 +1,61 @@
+"Rosetta" 
+"RSESDecisionTable" 
+10 5 
+0 0 0 0 0 
+0 1 0 0 1 
+0 0 0 0 0 
+0 1 0 0 1 
+0 1 0 0 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 0 0 
+1 1 1 0 1 
+1 1 1 0 1 
+0 0 0 0 1 
+1 1 1 1 1 
+1 1 1 1 1 1 1 1 1 1 
+1 
+5 
+"StringAttribute" 
+"Bird" 
+"Undefined" 
+2 
+"No" 1 
+"Yes" 0 
+"StringAttribute" 
+"Penguin" 
+"Undefined" 
+2 
+"No" 1 
+"Yes" 0 
+"StringAttribute" 
+"Airplane" 
+"Undefined" 
+2 
+"No" 0 
+"Yes" 1 
+"StringAttribute" 
+"Concorde" 
+"Undefined" 
+2 
+"No" 0 
+"Yes" 1 
+"StringAttribute" 
+"Fly" 
+"Undefined" 
+2 
+"No" 0 
+"Yes" 1 
+"Rosetta" 
+"RSESDecisionTable" 
+1 
+"fly" 
+"" 
+2 
+"1996.11.22 14:29:23" 
+"aleks" 
+"Imported from S:\datasets\rosetta\fly.import." 
+"1997.07.15 14:36:23" 
+"aleks" 
+"Swapped attributes Fly and Penguin." 
+0 

@@ -1,0 +1,11 @@
+This software (including documentation) is provided "as is" without warranty of any 
+kind. You may not sell, rent, lease or license the software (or derivative works 
+thereof) to others. Also, you may not reverse engineer, decompile, translate or 
+disassemble the software in any way.
+
+The author will not make available technical support for this software. The author 
+may, from time to time, revise or update the software. In so doing, the author incurs 
+no obligation to furnish such revisions or updates to you.
+
+The author of this software does not guarantee that this software is free from bugs or 
+free from viruses.
